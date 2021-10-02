@@ -1,0 +1,1 @@
+# ti10-fantasy-card-picker
